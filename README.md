@@ -9,3 +9,6 @@ Galactic Showdown includes a variety of game mechanics, including:
 - **Resource management**: Players must manage their resources carefully, balancing their budgets between ship upgrades, new technology, and other expenses.
 - **Exploration**: Players can explore new planets and star systems, discovering new resources, technologies, and opportunities.
 - **Multiplayer battles**: Players can compete against each other in real-time, engaging in intense battles that require strategic thinking, quick reflexes, and careful planning.
+
+Getting Started
+To play Galactic Showdown, simply visit the game's website and create an account. Once you've logged in, you can create your own ship, explore the galaxy, and engage in battles against other players.
