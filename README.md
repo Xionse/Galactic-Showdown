@@ -13,3 +13,7 @@ Galactic Showdown includes a variety of game mechanics, including:
 ## Getting Started
 
 To play Galactic Showdown, simply visit the game's website and create an account. Once you've logged in, you can create your own ship, explore the galaxy, and engage in battles against other players.
+
+## Contributing
+
+Galactic Showdown is an open-source project, and we welcome contributions from developers of all skill levels. If you'd like to get involved, simply fork the repository, make your changes, and submit a pull request.
