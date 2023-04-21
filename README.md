@@ -16,8 +16,8 @@ To play Galactic Showdown, simply visit the game's website and create an account
 
 ## Contributing
 
-*Galactic Showdown* is an open-source project, and we welcome contributions from developers of all skill levels. If you'd like to get involved, simply fork the repository, make your changes, and submit a pull request.
+*Galactic Showdown*  is an open-source project, and we welcome contributions from developers of all skill levels. If you'd like to get involved, simply fork the repository, make your changes, and submit a pull request.
 
 ## License
 
-Galactic Showdown is licensed under the . See the LICENSE file for details.
+Galactic Showdown is licensed under the . See the  LICENSE file for details.
